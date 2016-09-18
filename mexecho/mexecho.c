@@ -3,6 +3,7 @@
 #include <getopt.h>
 #include <string.h>
 /* TODO : 
+ *-1. initialize logging.
  * 0. Put checks on argc.
  * 1. check if optarg mexid is a valid int.
  * 2. If a mexid is not provided explicitly, then it
